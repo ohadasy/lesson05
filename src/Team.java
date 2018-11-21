@@ -14,7 +14,7 @@ public class Team {
 		_numOfPlayers = numOfPlayers >= 0 ? numOfPlayers : 10;
 		_playersIndex =0;
 		
-//		System.out.println("Team created from 3 parms constractor" + _numOfPlayers);
+//		111System.out.println("Team created from 3 parms constractor" + _numOfPlayers);
 		_players = new String[_numOfPlayers];
 		
 	}
